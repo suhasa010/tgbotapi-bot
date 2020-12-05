@@ -1,2 +1,2 @@
-# espnfootballscores-telegram-bot
-ESPN Football Scores Telegram bot
+# tgbotapi-bot
+Telegram Bot API Help
